@@ -204,7 +204,7 @@ My GitHub project space for development work. Visit the repository to see the co
   <img src="https://img.shields.io/badge/GITHUB-SAPONEXTECH-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8" alt="GitHub Profile" />
 </a>
 <a href="mailto:ankityadav34605@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ankityadav34605%40gmail.com-0284c7?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-ankityadav34685%40gmail.com-0284c7?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email" />
 </a>
 
 <br/><br/>
