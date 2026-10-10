@@ -1,9 +1,6 @@
 <div align="center">
-
-<!-- Header Banner matching exact Cyan / Deep Navy gradient -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0e7490,082f49&height=180&section=header&text=Ankit%20Yadav&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Web%20Developer%20%7C%20Android%20Developer%20%7C%20Cybersecurity%20Learner&descAlignY=70&descSize=16&descColor=7dd3fc" width="100%" alt="Ankit Yadav Banner" />
-
-<br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:082f49,100:0e7490&height=180&section=header&text=Ankit%20Yadav&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Web%20Developer%20%7C%20Android%20Developer%20%7C%20Cybersecurity%20Learner&descSize=18&descAlignY=68&descColor=7dd3fc" width="100%" alt="Header Banner" />
+</div>
 
 <!-- Tagline Highlight -->
 <p align="center">
@@ -108,7 +105,7 @@ Designing relational database structures with SQL, alongside cloud backends like
 ### 🧩 SapoNexTech
 My GitHub project space for development work. Visit the repository to see the code and current project details.
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/SapoNexTech/SapoNexTech">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SapoNexTech&repo=SapoNexTech&theme=nord&border_color=38bdf8&title_color=38bdf8&icon_color=38bdf8" alt="SapoNexTech Pin" />
   </a>
@@ -130,7 +127,7 @@ My GitHub project space for development work. Visit the repository to see the co
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 #### Languages
 <img src="https://skillicons.dev/icons?i=html,css,js,py,c,kotlin" alt="Languages" />
@@ -164,7 +161,7 @@ My GitHub project space for development work. Visit the repository to see the co
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SapoNexTech&show_icons=true&theme=nord&border_color=38bdf8&title_color=38bdf8&icon_color=38bdf8&text_color=d8dee9" height="175" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SapoNexTech&layout=compact&theme=nord&border_color=38bdf8&title_color=38bdf8&text_color=d8dee9" height="175" alt="Top Languages" />
@@ -221,5 +218,5 @@ My GitHub project space for development work. Visit the repository to see the co
 
 <!-- Footer Gradient Banner matching Top Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e7490,082f49&height=100&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,100:082f49&height=120&section=footer" width="100%" alt="Footer Banner" />
 </div>
